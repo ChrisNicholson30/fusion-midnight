@@ -1,0 +1,7 @@
+id = "fusion-midnight"
+name = "Fusion Midnight"
+version = "0.1.0"
+schema_version = 1
+authors = ["Chris Nicholson <chris@cn-design.co.uk>"]
+description = "A deep, OLED-friendly Zed theme — New Darcula's JetBrains syntax warmth on One Dark Pro Enhanced's cool UI chrome."
+repository = "https://github.com/cn-design/fusion-midnight-zed"
