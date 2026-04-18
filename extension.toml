@@ -1,0 +1,7 @@
+id = "fusion-themes"
+name = "Fusion Themes"
+version = "0.1.0"
+schema_version = 1
+authors = ["Chris Nicholson <chris@cn-design.co.uk>"]
+description = "A warm-syntax-on-cool-chrome blend of New Darcula and One Dark Pro Enhanced."
+repository = "https://github.com/cn-design/fusion-zed"
